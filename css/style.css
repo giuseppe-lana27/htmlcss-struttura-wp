@@ -9,7 +9,6 @@
   width: 80%;
   height:  100%;
   background-color: green;
-
 }
 
 header{
@@ -21,4 +20,37 @@ header{
 .banner{
   height: 500px;
   background-color: yellow;
+  margin-bottom: 20px;
+}
+
+section{
+  background-color: blue;
+
+}
+
+.section-row{
+  height: 80px;
+  background-color: lightblue;
+  margin-bottom: 1%;
+}
+
+.columns{
+  height: 600px;
+}
+
+.left-column, .right-column{
+  width: 25%;
+  height: 100%;
+  background-color: lightblue;
+  float: left;
+
+}
+
+.mid-column{
+  width: 48%;
+  height: 100%;
+  background-color: lightblue;
+  float: left;
+  margin: 0 1%;
+
 }
