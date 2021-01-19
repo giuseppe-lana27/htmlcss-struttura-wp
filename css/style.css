@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  margin: auto;
+  width: 80%;
+  height:  100%;
+  background-color: green;
+  
+}
+
+header{
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 10px;
+}
+
+.banner{
+
+}
